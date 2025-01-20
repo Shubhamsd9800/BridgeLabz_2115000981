@@ -1,0 +1,14 @@
+D:\Capgemini\dotnet-notepad\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+D:\Capgemini\dotnet-notepad\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+D:\Capgemini\dotnet-notepad\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+D:\Capgemini\dotnet-notepad\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+D:\Capgemini\dotnet-notepad\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+D:\Capgemini\dotnet-notepad\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
