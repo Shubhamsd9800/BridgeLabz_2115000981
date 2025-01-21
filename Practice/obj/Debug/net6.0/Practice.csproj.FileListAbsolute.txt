@@ -1,0 +1,15 @@
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+D:\Capgemini\BridgeLabz_Code\Practice\bin\Debug\net6.0\Practice.exe
+D:\Capgemini\BridgeLabz_Code\Practice\bin\Debug\net6.0\Practice.deps.json
+D:\Capgemini\BridgeLabz_Code\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+D:\Capgemini\BridgeLabz_Code\Practice\bin\Debug\net6.0\Practice.dll
+D:\Capgemini\BridgeLabz_Code\Practice\bin\Debug\net6.0\Practice.pdb
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.dll
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\refint\Practice.dll
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.pdb
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+D:\Capgemini\BridgeLabz_Code\Practice\obj\Debug\net6.0\ref\Practice.dll
