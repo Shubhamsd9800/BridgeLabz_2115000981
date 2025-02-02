@@ -65,3 +65,18 @@
   <li>System.Math Class in C#</li>
 </ol>
 <br/>
+
+## Assignment with Code of 30-01-2025 date is Done
+### I have learned the following topics through this assignment:
+
+<ol>
+  <li>The outcome is the usage of Strings</li>
+  <li>Handling strings and common string functions</li>
+  <li>Functions and function parameter passing, return the value of function</li>
+  <li>Use common Built-in Functions and build the logic</li>
+</ol>
+<br/>
+
+
+## Assignment with Code of 31-01-2025 date is Done
+### Solved more questions on strings and others for logic building purpose through this assignment:
