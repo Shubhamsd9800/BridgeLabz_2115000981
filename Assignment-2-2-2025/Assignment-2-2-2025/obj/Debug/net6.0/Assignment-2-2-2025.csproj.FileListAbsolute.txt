@@ -1,0 +1,14 @@
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.AssemblyInfoInputs.cache
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.AssemblyInfo.cs
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.csproj.CoreCompileInputs.cache
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\bin\Debug\net6.0\Assignment-2-2-2025.exe
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\bin\Debug\net6.0\Assignment-2-2-2025.deps.json
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\bin\Debug\net6.0\Assignment-2-2-2025.runtimeconfig.json
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\bin\Debug\net6.0\Assignment-2-2-2025.dll
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\bin\Debug\net6.0\Assignment-2-2-2025.pdb
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.dll
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\refint\Assignment-2-2-2025.dll
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.pdb
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\Assignment-2-2-2025.genruntimeconfig.cache
+D:\Capgemini\BridgeLabz_Code\Assignment-2-2-2025\Assignment-2-2-2025\obj\Debug\net6.0\ref\Assignment-2-2-2025.dll
