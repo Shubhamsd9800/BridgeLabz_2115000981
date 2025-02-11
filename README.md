@@ -112,3 +112,16 @@
 
 <br/>
 
+## Assignment with Code of 6-2-2025 is done
+### I have learned the following topics through this assignment:
+<ol>
+  <li>Object Oriented Design Principles</li>
+  <li>Class Diagram</li>
+  <li>Object Diagrams</li>
+  <li>Sequence Diagrams</li>
+  <li>HasARelationship vs IsARelationship</li>
+  <li>Association, Aggregation, Composition</li>
+
+</ol>
+
+<br/>
