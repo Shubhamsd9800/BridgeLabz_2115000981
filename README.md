@@ -1,3 +1,4 @@
+
 # BridgeLabz_2115000981
 ---
 ---
@@ -125,3 +126,20 @@
 </ol>
 
 <br/>
+
+
+## Assignment with Code of 08-02-2025 date is Done
+### I have learned the following topics through this assignment:
+<ol>
+  <li>Inheritance</li>
+  <li>Single Level Inheritance</li>
+  <li>Multilevel Inheritance</li>
+  <li>Hierarchical Inheritance</li>
+  <li>Key Features of Inheritance</li>
+  <li>Method Overriding</li>
+  <li>Constructor Inheritance in C#</li>
+  <li>Polymorphism and Inheritance</li>
+  <li>Access Modifiers and Inheritance</li>
+</ol>
+<br/>
+
