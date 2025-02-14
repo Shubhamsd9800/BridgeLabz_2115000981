@@ -143,3 +143,16 @@
 </ol>
 <br/>
 
+## Assignment with Code of 10-02-2025 date is Done
+### I have learned the following topics through this assignment:
+<ol>
+  <li>Encapsulation</li>
+  <li>Polymorphism</li>
+  <li>Interface</li>
+  <li>Abstract Classes</li>
+</ol>
+
+</br>
+
+## Practice OOPS Concept and debug few issues
+### Created new Branch date 14-2-2025/Practice
