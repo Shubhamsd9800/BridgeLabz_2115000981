@@ -158,12 +158,23 @@
 ### Created new Branch date 14-2-2025/Practice
 
 
-## Assignment with Code of 10-02-2025 date is Done
+## Assignment with Code of 12-02-2025 date is Done
 ### I have learned the following topics through this assignment:
 <ol>
   <li>Singly Linked List</li>
   <li>Doubly Linked List</li>
   <li>Circular Linked List</li>
+</ol>
+
+</br>
+
+
+## Assignment with Code of 13-02-2025 date is Done
+### I have learned the following topics through this assignment:
+<ol>
+  <li>Stacks</li>
+  <li>Queues</li>
+  <li>Hashmaps and hashing Functions</li>
 </ol>
 
 </br>
