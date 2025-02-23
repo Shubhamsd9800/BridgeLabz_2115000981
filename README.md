@@ -1,4 +1,4 @@
-
+\
 # BridgeLabz_2115000981
 ---
 ---
@@ -178,3 +178,6 @@
 </ol>
 
 </br>
+
+## Practice FileStream StreamReader Linear Search Binary Search Big-O-Notation 
+### Created new Branch date 17-2-2025/StreamReaderPractice
