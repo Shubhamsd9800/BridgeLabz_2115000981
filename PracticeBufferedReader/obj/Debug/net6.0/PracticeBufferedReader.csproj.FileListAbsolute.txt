@@ -1,0 +1,14 @@
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\bin\Debug\net6.0\PracticeBufferedReader.exe
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\bin\Debug\net6.0\PracticeBufferedReader.deps.json
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\bin\Debug\net6.0\PracticeBufferedReader.runtimeconfig.json
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\bin\Debug\net6.0\PracticeBufferedReader.dll
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\bin\Debug\net6.0\PracticeBufferedReader.pdb
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.AssemblyInfoInputs.cache
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.AssemblyInfo.cs
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.csproj.CoreCompileInputs.cache
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.dll
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\refint\PracticeBufferedReader.dll
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.pdb
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\PracticeBufferedReader.genruntimeconfig.cache
+D:\Capgemini\BridgeLabz_Code\PracticeBufferedReader\PracticeBufferedReader\obj\Debug\net6.0\ref\PracticeBufferedReader.dll
