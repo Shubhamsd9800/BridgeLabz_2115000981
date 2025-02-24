@@ -1,4 +1,4 @@
-\
+
 # BridgeLabz_2115000981
 ---
 ---
@@ -181,3 +181,6 @@
 
 ## Practice FileStream StreamReader Linear Search Binary Search Big-O-Notation 
 ### Created new Branch date 17-2-2025/StreamReaderPractice
+
+## Practice Generics, Class Generics, Method Generics, Generics with bound types
+### Created new Branch date 18-2-2025/GenericsPractice
