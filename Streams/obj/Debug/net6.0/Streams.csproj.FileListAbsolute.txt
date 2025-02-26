@@ -1,0 +1,14 @@
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\bin\Debug\net6.0\Streams.exe
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\bin\Debug\net6.0\Streams.deps.json
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\bin\Debug\net6.0\Streams.runtimeconfig.json
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\bin\Debug\net6.0\Streams.dll
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\bin\Debug\net6.0\Streams.pdb
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.AssemblyInfoInputs.cache
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.AssemblyInfo.cs
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.csproj.CoreCompileInputs.cache
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.dll
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\refint\Streams.dll
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.pdb
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\Streams.genruntimeconfig.cache
+D:\Capgemini\BridgeLabz_Code\Streams\Streams\obj\Debug\net6.0\ref\Streams.dll
