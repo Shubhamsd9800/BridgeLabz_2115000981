@@ -182,5 +182,29 @@
 ## Practice FileStream StreamReader Linear Search Binary Search Big-O-Notation 
 ### Created new Branch date 17-2-2025/StreamReaderPractice
 
+</br>
 ## Practice Generics, Class Generics, Method Generics, Generics with bound types
 ### Created new Branch date 18-2-2025/GenericsPractice
+</br>
+
+## Practice I/O Streams and Types of Streams
+### Created new Branch date 19-2-2025/IOStreamsPractice
+
+
+</br>
+
+
+## Assignment with Code of 14-02-2025 date is Done
+### I have learned the following topics through this assignment:
+<ol>
+  <li>Selection Sort</li>
+  <li>Bubble Sort</li>
+  <li>Insertion Sort</li>
+  <li>Quick Sort</li>
+  <li>Merge Sort </li>
+  <li>Heap Sort</li>
+  <li>Counting Sort </li>
+
+</ol>
+
+</br>
